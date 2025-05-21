@@ -15,7 +15,7 @@ I took the data I’ve collected for my **UFC predictive analytics project** and
 ### 💡 Key Takeaway
 > The ability to **tell a story with data** is just as important as writing perfect queries. It’s what turns numbers into *narratives* that drive decisions.
 
-🎥 Check out my prototype video here: 
+🎥 Check out my prototype video here: https://www.linkedin.com/posts/tony-xia-4b9201237_100daysofsql-datavisualization-sqllearning-activity-7330886865606057984-DRE6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrw0Y0B19EFRI-MRv8YJ39cNXQFlRI44Gc
 
 
 
